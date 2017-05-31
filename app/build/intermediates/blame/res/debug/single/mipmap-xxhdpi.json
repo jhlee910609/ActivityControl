@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JunHee/AndroidStudioProjects/ActivityControl/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/JunHee/AndroidStudioProjects/ActivityControl/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/JunHee/AndroidStudioProjects/ActivityControl/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/JunHee/AndroidStudioProjects/ActivityControl/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
